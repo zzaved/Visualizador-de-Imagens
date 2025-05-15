@@ -1,6 +1,6 @@
 # Visualizador de Imagens com Filtros
 
-## 🎬 [Acesse o vídeo explicativo clicando aqui](link) 
+## 🎬 [Acesse o vídeo explicativo clicando aqui](https://youtu.be/4ycdWNyrNoU) 
 
 <p align="center">
   <strong>Figura 1: Imagem geral da Aplicação</strong><br>
