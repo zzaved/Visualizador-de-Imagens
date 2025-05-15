@@ -2,25 +2,21 @@
 
 ## 🎬 [Acesse o vídeo explicativo clicando aqui](link) 
 
-<div style="text-align: center; width: 500px; margin: 0 auto;">
-    <h3>Figura 1: Imagem geral da Aplicação</h3>
-    <div style="max-width: 500px; margin: 0 auto;">
-        <img src="media/screenshot2.png" alt="Imagem geral da Aplicação" style="width: 100%;" />
-    </div>
-    <p><em>Fonte: Produzida pelo Autor (2025).</em></p>
-</div>
+<p align="center">
+  <strong>Figura 1: Imagem geral da Aplicação</strong><br>
+  <img src="media/screenshot2.png" alt="Imagem geral da Aplicação" width="700"><br>
+  <em>Fonte: Produzida pelo Autor (2025).</em>
+</p>
 
 ## 📷 Visão Geral
 
 Este projeto consiste em um aplicativo web interativo que permite ao usuário carregar, visualizar, processar e salvar imagens aplicando diversos filtros e transformações. Desenvolvido como parte da atividade avaliativa do módulo 06 do curso de Engenharia da Computação, o aplicativo atende a todos os requisitos especificados, implementando uma interface amigável e intuitiva que exibe a imagem original e a processada lado a lado.
 
-<div style="text-align: center; width: 500px; margin: 0 auto;">
-    <h3>Figura 2: Aplique de editores de imagem</h3>
-    <div style="max-width: 500px; margin: 0 auto;">
-        <img src="media/screenshot3.png" alt="Imagem do Aplique de editores de imagem" style="width: 100%;" />
-    </div>
-    <p><em>Fonte: Produzida pelo Autor (2025).</em></p>
-</div>
+<p align="center">
+  <strong>Figura 2: Aplique de editores de imagem</strong><br>
+  <img src="media/screenshot3.png" alt="Imagem do Aplique de editores de imagem" width="700"><br>
+  <em>Fonte: Produzida pelo Autor (2025).</em>
+</p>
 
 ### 🎨 Demonstração da Aplicação
 
@@ -69,8 +65,8 @@ O aplicativo está disponível online através do Streamlit Cloud: [Link para o 
 
 1. Clone este repositório:
 ```bash
-git clone https://https://github.com/zzaved/Visualizador-de-Imagens
-cd Visualizador-de-imagens
+git clone https://github.com/zzaved/Visualizador-de-Imagens.git
+cd Visualizador-de-Imagens
 ```
 
 2. Instale as dependências:
