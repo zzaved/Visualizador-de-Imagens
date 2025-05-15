@@ -2,9 +2,9 @@
 
 ## 🎬 [Acesse o vídeo explicativo clicando aqui](link) 
 
-<div style="text-align: center; width: 800px; margin: 0 auto;">
+<div style="text-align: center; width: 500px; margin: 0 auto;">
     <h3>Figura 1: Imagem geral da Aplicação</h3>
-    <div style="max-width: 800px; margin: 0 auto;">
+    <div style="max-width: 500px; margin: 0 auto;">
         <img src="media/screenshot2.png" alt="Imagem geral da Aplicação" style="width: 100%;" />
     </div>
     <p><em>Fonte: Produzida pelo Autor (2025).</em></p>
@@ -14,9 +14,9 @@
 
 Este projeto consiste em um aplicativo web interativo que permite ao usuário carregar, visualizar, processar e salvar imagens aplicando diversos filtros e transformações. Desenvolvido como parte da atividade avaliativa do módulo 06 do curso de Engenharia da Computação, o aplicativo atende a todos os requisitos especificados, implementando uma interface amigável e intuitiva que exibe a imagem original e a processada lado a lado.
 
-<div style="text-align: center; width: 800px; margin: 0 auto;">
+<div style="text-align: center; width: 500px; margin: 0 auto;">
     <h3>Figura 2: Aplique de editores de imagem</h3>
-    <div style="max-width: 800px; margin: 0 auto;">
+    <div style="max-width: 500px; margin: 0 auto;">
         <img src="media/screenshot3.png" alt="Imagem do Aplique de editores de imagem" style="width: 100%;" />
     </div>
     <p><em>Fonte: Produzida pelo Autor (2025).</em></p>
