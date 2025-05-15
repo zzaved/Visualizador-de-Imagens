@@ -90,7 +90,8 @@ visualizador-de-imagens/
 ├── app.py                 # Aplicativo principal com a interface Streamlit
 ├── image_processor.py     # Módulo com as funções de processamento de imagem
 ├── requirements.txt       # Dependências do projeto
-└── README.md              # Documentação
+├── README.md              # Documentação
+└── media/                 # Pasta com recursos visuais para o README
 ```
 
 ### 📁 Detalhes dos Arquivos
@@ -98,6 +99,7 @@ visualizador-de-imagens/
 * **app.py**: Contém a interface do usuário e a lógica principal de interação
 * **image_processor.py**: Implementa todas as funções de processamento e transformação de imagens
 * **requirements.txt**: Lista todas as bibliotecas necessárias para executar o projeto
+* **media/**: Diretório contendo recursos visuais como capturas de tela utilizadas na documentação
 
 ## 🔍 Padrões de Qualidade do Código
 
