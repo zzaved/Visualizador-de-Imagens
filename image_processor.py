@@ -1,6 +1,5 @@
 from PIL import Image, ImageOps, ImageFilter, ImageEnhance
 import numpy as np
-import cv2
 
 def grayscale(image):
     """
