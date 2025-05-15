@@ -43,7 +43,7 @@ def main():
     
     # Caixa para a imagem processada com contorno
     with col2:
-        st.subheader("✨ Imagem com Filtros Aplicados")
+        st.subheader("✨ Filtros Aplicados")
         with st.container(border=True):  # Cria um contêiner com borda para a imagem processada
             processed_image_container = st.container()  # Container para imagem processada
         processed_info = st.empty()  # Placeholder para mostrar dimensões da imagem processada
