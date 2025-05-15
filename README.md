@@ -26,8 +26,6 @@ Este projeto consiste em um aplicativo web interativo que permite ao usuário ca
 
 O aplicativo está disponível online através do Streamlit Cloud: [Link para o aplicativo](https://zzaved-visualizador-de-imagens-app-lxzkqc.streamlit.app/)
 
-![Captura de tela da aplicação](https://via.placeholder.com/800x400?text=Visualizador+de+Imagens)
-
 ## 💻 Funcionalidades
 
 ### 📊 Filtros Implementados
@@ -71,8 +69,8 @@ O aplicativo está disponível online através do Streamlit Cloud: [Link para o 
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/visualizador-de-imagens.git
-cd visualizador-de-imagens
+git clone https://https://github.com/zzaved/Visualizador-de-Imagens
+cd Visualizador-de-imagens
 ```
 
 2. Instale as dependências:
